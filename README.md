@@ -22,7 +22,7 @@
 
 1. **Download & Setup**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/youtube-auto-short-uploader.git
+   git clone https://github.com/siyoell12/youtube-auto-short-uploader.git
    cd youtube-auto-short-uploader
    pip install -r requirements.txt
    ```
