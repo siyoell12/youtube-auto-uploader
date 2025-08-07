@@ -117,14 +117,17 @@ type uploaded_videos.log  # Windows
 cat uploaded_videos.log   # Linux/Mac
 ```
 
-🌐 Komunitas & Sosial Media
+## 🌐 Komunitas & Sosial Media
+
 Ingin berdiskusi, bertanya, atau berbagi ide? Bergabunglah dengan komunitas kami!
 
-💬 Telegram Group: [t.me/ytshortuploader](https://t.me/independendropers)
+💬 Telegram Group: [t.me/airdropindependen](https://t.me/independendropers)
 
-🐦 Twitter/X: [twitter.com/ytshortbot](https://x.com/Deasaputra_12)
+🐦 Twitter/X: [twitter.com/deasaputra12](https://x.com/Deasaputra_12)
 
-🎮 Discord Server: [discord.gg/ytshortuploader](https://discord.gg/Tuy2bR6CkU)
+🎮 Discord Server: [discord.gg/airdropindependen](https://discord.gg/Tuy2bR6CkU)
+
+
 ## Buy Me a Coffee
 
 - **EVM:** 0x905d0505Ec007C9aDb5CF005535bfcC5E43c0B66
