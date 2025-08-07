@@ -45,7 +45,7 @@ youtube-auto-short-uploader/
 ├── accounts/
 │   ├── akun1/
 │   │   ├── token.pkl       # Auto-generated
-│   │   └── *.mp4          # Video files
+│   │   └── *.mp4           # Video files
 │   ├── akun2/
 │   └── akun3/
 └── uploaded_videos.log     # Upload history
@@ -91,10 +91,10 @@ python uploader.py
 ### 4. Pilih Target Audience
 ```
 ╔═════════════════════════╗
-║ 👥 TARGET AUDIENCE      ║
+║ 👥 TARGET AUDIENCE     ║   
 ╠═════════════════════════╣
-║ 1. Untuk Anak-Anak    ║
-║ 2. Bukan Untuk Anak   ║
+║ 1. Untuk Anak-Anak      ║
+║ 2. Bukan Untuk Anak     ║
 ╚═════════════════════════╝
 ```
 
@@ -117,19 +117,15 @@ type uploaded_videos.log  # Windows
 cat uploaded_videos.log   # Linux/Mac
 ```
 
-## 🤝 Kontribusi
-1. Fork repository ini
-2. Buat branch fitur baru
-3. Commit perubahan
-4. Push ke branch
-5. Buat Pull Request
+## Buy Me a Coffee
 
-## 📄 Lisensi
-MIT License - lihat file LICENSE untuk detail
+- **EVM:** 0x905d0505Ec007C9aDb5CF005535bfcC5E43c0B66
+- **TON:** UQCFO7vVP0N8_K4JUCfqlK6tsofOF4KEhpahEEdXBMQ-MVQL
+- **SOL:** BmqfjRHAKXUSKATuhbjPZfcNciN3J2DA1tqMgw9aGMdj
 
-## 📞 Support
-- Issues: [GitHub Issues](https://github.com/YOUR_USERNAME/youtube-auto-short-uploader/issues)
-- Email: your-email@example.com
+Thank you for visiting this repository, don't forget to contribute in the form of follows and stars.
+If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an *issue* in this GitHub repository.
 
 ---
 **⭐ Jika proyek ini membantu, berikan bintang di GitHub! ⭐**
+
